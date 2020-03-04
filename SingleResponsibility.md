@@ -18,3 +18,10 @@
 
 
 ![](SOLID/SingleResponsibility/S-7.png)
+
+
+
+[Open closed principle](https://github.com/raghuram-gs/SOLID_Principles/blob/master/SingleResponsibility.md)
+[Liskov substitution principle](https://github.com/raghuram-gs/SOLID_Principles/blob/master/SingleResponsibility.md)
+[Interface seggregation principle](https://github.com/raghuram-gs/SOLID_Principles/blob/master/SingleResponsibility.md)
+[Dependency Inversion principle](https://github.com/raghuram-gs/SOLID_Principles/blob/master/SingleResponsibility.md)
