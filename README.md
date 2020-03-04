@@ -1,4 +1,7 @@
 
+
+SOLID Principles
+
 1. Single Responsibility principle
 2. Open closed principle
 3. Liskov substitution principle
